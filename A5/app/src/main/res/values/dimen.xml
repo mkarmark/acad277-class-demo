@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Mitali Karmarkar-->
+<resources>
+    <dimen name="border_padding">16dp</dimen>
+    <dimen name="font_size">18sp</dimen>
+    <dimen name="widget_padding">8dp</dimen>
+    <dimen name="border">2dp</dimen>
+</resources>

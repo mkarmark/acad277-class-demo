@@ -1,0 +1,27 @@
+<!--Mitali Karmarkar-->
+<resources>
+    <string name="app_name">A5</string>
+    <string name="string_bill_amount">Bill Amount</string>
+    <string name="string_tip_by">Tip by </string>
+    <string name="string_percent">Percent</string>
+    <string name="string_default_percent_value">15%</string>
+    <string name="min_seekbar_value">0</string>
+    <string name="max_seekbar_value">30</string>
+    <string name="default_seekbar_value">15</string>
+    <string name="string_tip">Tip</string>
+    <string name="string_total">Total</string>
+    <string name="string_money_default">$0.00</string>
+    <string name="string_money_value" formatted="false">$%.2f</string>
+    <string name="string_split_bill">Split Bill?</string>
+    <string-array name="array_split_bill">
+        <item>No</item>
+        <item>2 ways</item>
+        <item>3 ways</item>
+        <item>4 ways</item>
+    </string-array>
+    <string name="string_per_person">Per Person</string>
+    <string name="string_percent_value" formatted="false">%d%%</string>
+    <string name="string_tip_by_percent">Percent</string>
+    <string name="string_tip_by_value">Value</string>
+    <string name="string_round_up_to_nearest_dollar">Round up total nearest to dollar</string>
+</resources>
